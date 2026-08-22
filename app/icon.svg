@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="TrustScope logo">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#5eead4"/><stop offset="1" stop-color="#22c55e"/></linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="30" fill="#071014"/>
+  <path d="M64 14 103 29v30c0 27-15 45-39 55C40 104 25 86 25 59V29L64 14Z" fill="#0d171c" stroke="url(#g)" stroke-width="6"/>
+  <circle cx="64" cy="58" r="24" fill="none" stroke="#2dd4bf" stroke-width="5" opacity=".9"/>
+  <circle cx="64" cy="58" r="10" fill="#5eead4" opacity=".18"/>
+  <path d="M64 34v7M64 75v7M40 58h7M81 58h7" stroke="#86efac" stroke-width="4" stroke-linecap="round"/>
+  <path d="m52 58 8 8 17-19" fill="none" stroke="#eef7f5" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
